@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1399589175588">{:repl-history {:ide [], :local [&quot;(+ 1 1)&quot; &quot;(in-ns 'gather_vet_emails)&quot; &quot;(in-ns 'gather_vet_emails.core)&quot; &quot;(foo)&quot; &quot;(foo 2\n     )&quot; &quot;(readfile \&quot;zip_code_database.csv\&quot;)&quot; &quot;(split \&quot;a,b,c\&quot; \&quot;,\&quot;)&quot; &quot;(clojure.string/split \&quot;a,b\&quot; \&quot;,\&quot;)&quot; &quot;(clojure.string/split \&quot;a,b\&quot; #\&quot;,\&quot;)&quot;], :remote []}}</component>
+</project>
+
